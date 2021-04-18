@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Task-Treacker/static/css/main.e34ba462.chunk.css",
+    "main.js": "/React-Task-Treacker/static/js/main.a6383ca1.chunk.js",
+    "main.js.map": "/React-Task-Treacker/static/js/main.a6383ca1.chunk.js.map",
+    "runtime-main.js": "/React-Task-Treacker/static/js/runtime-main.ee254af0.js",
+    "runtime-main.js.map": "/React-Task-Treacker/static/js/runtime-main.ee254af0.js.map",
+    "static/js/2.cda590a4.chunk.js": "/React-Task-Treacker/static/js/2.cda590a4.chunk.js",
+    "static/js/2.cda590a4.chunk.js.map": "/React-Task-Treacker/static/js/2.cda590a4.chunk.js.map",
+    "static/js/3.54d36a14.chunk.js": "/React-Task-Treacker/static/js/3.54d36a14.chunk.js",
+    "static/js/3.54d36a14.chunk.js.map": "/React-Task-Treacker/static/js/3.54d36a14.chunk.js.map",
+    "index.html": "/React-Task-Treacker/index.html",
+    "static/css/main.e34ba462.chunk.css.map": "/React-Task-Treacker/static/css/main.e34ba462.chunk.css.map",
+    "static/js/2.cda590a4.chunk.js.LICENSE.txt": "/React-Task-Treacker/static/js/2.cda590a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee254af0.js",
+    "static/js/2.cda590a4.chunk.js",
+    "static/css/main.e34ba462.chunk.css",
+    "static/js/main.a6383ca1.chunk.js"
+  ]
+}
